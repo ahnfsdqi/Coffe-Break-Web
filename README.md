@@ -1,4 +1,4 @@
-# Responsive Coffe BreakFried Chicken 
+# Responsive Coffe Break
 ### Responsive Coffe Break
 
 - Responsive Coffe Break Website Using HTML CSS JavaScript 
